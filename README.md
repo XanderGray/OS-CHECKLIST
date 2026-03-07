@@ -2,7 +2,7 @@ Activity A
 Preparation and Research
 Hardware and Software Applications
 
-☐ Research relevant hardware used in the system
+ Research relevant hardware used in the system
 
 Servers
 
@@ -14,7 +14,7 @@ Sensors or IoT devices
 
 AR/VR hardware if applicable
 
-☐ Research relevant software used in the system
+ Research relevant software used in the system
 
 Web development frameworks
 
@@ -28,11 +28,11 @@ Accessibility tools
 
 Security software
 
-☐ Identify how hardware and software work together within the system
+ Identify how hardware and software work together within the system
 
 Emerging Technologies
 
-☐ Research Artificial Intelligence
+ Research Artificial Intelligence
 
 Chatbots
 
@@ -40,7 +40,7 @@ Recommendation systems
 
 Automated customer support
 
-☐ Research Machine Learning Algorithms
+ Research Machine Learning Algorithms
 
 Predicting user behaviour
 
@@ -48,7 +48,7 @@ Personalisation of content
 
 Data analysis
 
-☐ Research Augmented Reality
+ Research Augmented Reality
 
 Interactive tourism experiences
 
@@ -56,31 +56,31 @@ AR navigation
 
 Visual overlays for products or locations
 
-☐ Research Blockchain Technology
+ Research Blockchain Technology
 
 Secure and transparent transactions
 
 Decentralised record keeping
 
-☐ Research Smart Contracts
+ Research Smart Contracts
 
 Automated agreements
 
 Triggered actions when conditions are met
 
-☐ Research Voice Control
+ Research Voice Control
 
 Voice search functionality
 
 Voice accessibility features
 
-☐ Research Robotics
+ Research Robotics
 
 Automated customer service systems
 
 Physical automation within industries
 
-☐ Research Contactless Payments
+ Research Contactless Payments
 
 NFC payments
 
@@ -90,19 +90,19 @@ Secure digital payment systems
 
 Meeting Diverse User Needs
 
-☐ Identify different types of users
+ Identify different types of users
 
 Technical users
 
 Non-technical users
 
-People with disabilities
+Users with disabilities
 
 Mobile users
 
 Older users
 
-☐ Consider accessibility needs
+ Consider accessibility needs
 
 Screen reader compatibility
 
@@ -114,7 +114,7 @@ High contrast colour schemes
 
 Clear navigation
 
-☐ Consider different devices
+ Consider device compatibility
 
 Mobile phones
 
@@ -122,23 +122,23 @@ Tablets
 
 Desktop computers
 
-Assistive devices
+Assistive technology devices
 
 Industry Specific Guidelines
 
-☐ Follow web development best practices
+ Follow web development best practices
 
-☐ Follow accessibility standards (WCAG)
+ Follow WCAG accessibility standards
 
-☐ Follow cyber security best practices
+ Follow cyber security best practices
 
-☐ Follow data protection regulations
+ Follow data protection regulations
 
-☐ Follow industry design standards
+ Follow industry design standards
 
 Research Process
 
-☐ Use credible sources
+ Use credible sources
 
 Industry reports
 
@@ -150,29 +150,29 @@ Academic sources
 
 Government websites
 
-☐ Organise notes under clear headings
+ Organise notes under clear headings
 
-☐ Keep notes factual
+ Keep notes factual
 
 Avoid opinions or analysis
 
-☐ Include security considerations
+ Include security considerations
 
-Data encryption
+Encryption
 
 Secure authentication
 
 Protection against cyber attacks
 
-☐ Identify relevant laws and regulations
+ Identify relevant laws and regulations
 
 Researching Existing Systems
 
-☐ Analyse similar websites or systems
+ Analyse similar websites or systems
 
-☐ Identify how they meet user needs
+ Identify how they meet user needs
 
-☐ Record examples of:
+ Record examples of:
 
 Good navigation
 
@@ -182,7 +182,7 @@ Interactive elements
 
 Security features
 
-☐ Include:
+ Include:
 
 Screenshots
 
@@ -193,9 +193,9 @@ Notes explaining their features
 Business Context
 Client Brief Review
 
-☐ Read the client brief carefully
+ Read the client brief carefully
 
-☐ Identify:
+ Identify:
 
 Client goals
 
@@ -205,11 +205,11 @@ Required features
 
 Expected outcomes
 
-☐ Highlight key requirements
+ Highlight key requirements
 
 Stakeholders
 
-☐ Identify all stakeholders
+ Identify all stakeholders
 
 Client
 
@@ -221,11 +221,11 @@ System administrators
 
 Support teams
 
-☐ Explain how each stakeholder interacts with the system
+ Explain how each stakeholder interacts with the system
 
 Constraints and Scope
 
-☐ Identify project constraints
+ Identify project constraints
 
 Budget limitations
 
@@ -235,7 +235,7 @@ Technical limitations
 
 Legal requirements
 
-☐ Define project scope
+ Define project scope
 
 What will be included
 
@@ -245,37 +245,37 @@ Empathy Mapping
 
 For the target user:
 
-☐ Says
+ Says
 
 What users say about their needs or problems
 
-☐ Thinks
+ Thinks
 
 What users think when using similar systems
 
-☐ Does
+ Does
 
 Actions users take when interacting with the system
 
-☐ Feels
+ Feels
 
 User frustrations, concerns, or motivations
 
 SWOT Analysis
 
-☐ Strengths
+ Strengths
 
 Advantages of the proposed solution
 
-☐ Weaknesses
+ Weaknesses
 
 Limitations or potential problems
 
-☐ Opportunities
+ Opportunities
 
 Future improvements or market advantages
 
-☐ Threats
+ Threats
 
 Competition
 
@@ -285,109 +285,102 @@ Technology limitations
 
 User Stories
 
-Use the format:
+Format:
 
 As a {user}, I want {feature}, so that {benefit}.
 
 Examples:
 
-☐ As a visitor, I want to search for locations, so that I can quickly find information.
+ As a visitor, I want to search for locations, so that I can quickly find information.
 
-☐ As a customer, I want to pay using contactless payment, so that transactions are quick and secure.
+ As a customer, I want to pay using contactless payment, so that transactions are quick and secure.
 
-☐ As a visually impaired user, I want screen reader compatibility, so that I can access the website content.
+ As a visually impaired user, I want screen reader compatibility, so that I can access the website content.
 
 Functional Requirements
 
-☐ Define what the system must do
+Define what the system must do
 
-Examples:
+ Users can create accounts
 
-☐ Allow users to create accounts
+ Users can search for information
 
-☐ Allow users to search for information
+ Users can make purchases
 
-☐ Allow users to make purchases
+ The website can display interactive maps
 
-☐ Display interactive maps
-
-☐ Provide secure login authentication
+ The system provides secure login authentication
 
 Non-Functional Requirements
+Performance
 
-☐ Performance
+ Fast loading times
 
-Fast loading times
+ Responsive design
 
-Responsive interface
+Security
 
-☐ Security
+ Data encryption
 
-Data encryption
+ Secure authentication
 
-Secure authentication
+Usability
 
-☐ Usability
+ Clear navigation
 
-Clear navigation
+ Simple interface
 
-Simple interface
+Reliability
 
-☐ Reliability
+ Stable uptime
 
-System uptime
+ Error handling
 
-Error handling
+Maintainability
 
-☐ Maintainability
+ Easy updates
 
-Easy updates
-
-Modular code structure
+ Modular code structure
 
 Decomposition of Requirements
 
-☐ Break large requirements into smaller tasks
+Break large tasks into smaller ones.
 
-Example:
+Example: Login System
 
-Requirement: User login system
+ Login page design
 
-Sub tasks:
+ User database
 
-Login page design
+ Password encryption
 
-User database
+ Authentication verification
 
-Password encryption
-
-Authentication verification
-
-Error handling
+ Error handling
 
 KPIs and User Acceptance
 
 Measure success using:
 
-☐ Customer reviews
+ Customer reviews
 
-☐ Customer satisfaction surveys
+ Customer satisfaction surveys
 
-☐ Number of website visitors
+ Number of website visitors
 
-☐ Number of repeat visitors
+ Number of repeat visitors
 
-☐ Revenue growth
+ Revenue growth
 
-☐ Page load time
+ Page load time
 
-☐ Bounce rate (users leaving without interacting)
+ Bounce rate
 
 Proposed Solution
 
-☐ Describe the website or system
+ Describe the website or system
 
-☐ Explain main features
+ Explain main features
 
 Navigation system
 
@@ -397,7 +390,7 @@ Payment systems
 
 Interactive elements
 
-☐ Explain user experience
+ Explain user experience
 
 Easy navigation
 
@@ -405,50 +398,36 @@ Fast loading pages
 
 Accessible design
 
-Justification
-Meeting Client and User Needs
-
-☐ Explain how the solution helps the client
-
-☐ Explain how users will interact with the system
-
-☐ Explain what problems the solution solves
-
 Risks and Mitigation
+Information Inaccuracy
 
-☐ Information inaccuracy
-Mitigation:
+ Verify sources
 
-Verify sources
+ Regular content updates
 
-Regular content updates
+Miscommunication
 
-☐ Miscommunication
-Mitigation:
+ Regular meetings
 
-Regular meetings
+ Clear documentation
 
-Clear documentation
+Data Loss
 
-☐ Data loss
-Mitigation:
+ Backup systems
 
-Backup systems
+ Secure storage
 
-Secure storage
+Data Breaches
 
-☐ Data breaches
-Mitigation:
+ Encryption
 
-Encryption
+ Secure authentication
 
-Secure authentication
-
-Security monitoring
+ Security monitoring
 
 Legal and Regulatory Requirements
 
-☐ GDPR
+ GDPR
 
 Protect user personal data
 
@@ -456,17 +435,17 @@ Provide privacy policy
 
 Allow users to access or delete their data
 
-☐ COPPA
+ COPPA
 
 Obtain parental consent for users under 13
 
-☐ EU Cookie Law
+ EU Cookie Law
 
 Provide cookie policy
 
 Ask for user consent
 
-☐ Accessibility (WCAG)
+ Accessibility (WCAG)
 
 Screen reader compatibility
 
@@ -474,17 +453,17 @@ Adjustable fonts
 
 High contrast colours
 
-☐ Copyright, Designs and Patents Act 1988
+ Copyright, Designs and Patents Act 1988
 
-Use licensed or owned content only
+Use licensed or owned content
 
-☐ Online Safety Guidelines
+ Online Safety
 
 Content moderation
 
 Reporting systems
 
-☐ NCSC Cyber Security Guidelines
+ NCSC Cyber Security
 
 Encryption
 
@@ -498,240 +477,215 @@ Activity B
 Visual Interface Design
 Wireframes
 
-☐ Create wireframes for all pages
+ Create wireframes for all pages
 
-☐ Include:
+Include:
 
-Colour scheme
+ Colour scheme
 
-Logo
+ Logo
 
-Navigation bar
+ Navigation bar
 
-Footer
+ Footer
 
-Page layouts
+ Page layouts
 
-☐ Show the entire website structure
+ Show complete site structure
 
-Accessibility Features
+Accessibility
 
-☐ Alt text for images
+ Alt text for images
 
-☐ Clear labels for inputs
+ Clear form labels
 
-☐ Adjustable text sizes
+ Adjustable font sizes
 
-☐ High contrast colours
+ High contrast colour schemes
 
 Annotations
 
-☐ Number each element on the wireframe
+ Number each element on the wireframe
 
-☐ Explain why design decisions were made
+ Explain design decisions
 
 User Journey
 Personas
 
 Include:
 
-☐ Name
+ Name
 
-☐ Age
+ Age
 
-☐ Role
+ Role
 
-☐ Goals
+ Goals
 
-☐ Devices used
+ Devices used
 
-☐ Accessibility needs
+ Accessibility needs
 
-☐ Quote describing user needs
+ Quote describing their needs
 
 User Journey Map
 
 Include:
 
-☐ Action
+ Action
 
-☐ Touchpoint
+ Touchpoint
 
-☐ Thoughts
+ Thoughts
 
-☐ Pain points
+ Pain points
 
-☐ Opportunities for improvement
-
-System Requirements
-
-☐ Front-end requirements
-
-Interface design
-
-Navigation
-
-User interaction
-
-☐ Back-end requirements
-
-Database
-
-Server logic
-
-Authentication systems
+ Opportunities
 
 Data Requirements
 ERD
 
-☐ Show entities and relationships
+ Show entities and relationships
 
-☐ Show data flow between tables
+ Show data flow between tables
 
 Use Case Diagram
 
-☐ Show how users interact with the system
+ Show how users interact with the system
 
 Data Dictionary
 
 Include:
 
-☐ Table name
+ Table name
 
-☐ Column name
+ Column name
 
-☐ Data type
+ Data type
 
-☐ Data format
+ Data format
 
-☐ Primary Key (PK)
+ Primary Key (PK)
 
-☐ Foreign Key (FK)
+ Foreign Key (FK)
 
 Algorithm Design
 Flowcharts
 
-☐ Show how system processes work
+ Show system processes
 
-☐ Include:
+ Include inputs, decisions, processes, outputs
 
-Inputs
-
-Decisions
-
-Processes
-
-Outputs
-
-☐ Use functions to simplify logic
+ Use functions to simplify logic
 
 Testing Strategy
 
-For each test include:
+For each test record:
 
-☐ Date of test
+ Date
 
-☐ Component tested
+ Component tested
 
-☐ Test type
+ Test type
 
-☐ Prerequisites
+ Prerequisites
 
-☐ Dependencies
+ Dependencies
 
-Testing Types
+Test Types
 
-☐ Functionality Testing
-☐ Usability Testing
-☐ Interface Testing
-☐ Database Testing
-☐ Compatibility Testing
-☐ Performance Testing
-☐ Security Testing
-☐ Crowd Testing
-☐ Accessibility Testing
-☐ Acceptance Testing
-☐ Alpha Testing
-☐ Beta Testing
-☐ Black Box Testing
-☐ White Box Testing
+ Functionality Testing
+
+ Usability Testing
+
+ Interface Testing
+
+ Database Testing
+
+ Compatibility Testing
+
+ Performance Testing
+
+ Security Testing
+
+ Crowd Testing
+
+ Accessibility Testing
+
+ Acceptance Testing
+
+ Alpha Testing
+
+ Beta Testing
+
+ Black Box Testing
+
+ White Box Testing
 
 Task 2
 
-☐ Use normal test data
+ Use normal test data
 
-☐ Use erroneous test data
+ Use erroneous test data
 
-☐ Use extreme test data
+ Use extreme test data
 
-☐ Create test tables with expected outcomes
+ Create test tables with expected results
 
-☐ Record iterative fixes
+ Record iterative fixes
 
-☐ Perform accessibility tests
+ Perform accessibility tests
 
-☐ Test for SQL injection vulnerabilities
+ Test for SQL injection vulnerabilities
 
 Task 3a – Feedback
-Aims and Purpose
+Aims
 
-☐ Explain why feedback is collected
+ Explain why feedback is collected
 
-☐ Explain how feedback improves:
+ Link feedback to improvements
 
-Usability
+ Identify information needed from users
 
-Performance
-
-Accessibility
-
-Navigation
-
-☐ Identify what information you want from users
-
-☐ Explain how feedback will influence future improvements
+ Explain how results inform future development
 
 Target Users
 
-☐ Identify technical users
+ Identify technical users
 
-Roles
+ Identify non-technical users
 
-Number of participants
+ Justify user selection
 
-☐ Identify non-technical users
-
-☐ Justify why these users were chosen
-
-☐ Explain the insights each group provides
+ Explain insights each group provides
 
 Feedback Methods
 
-☐ Surveys (quantitative + qualitative)
+ Surveys
 
-☐ Observation (task-based)
+ Observation
 
-☐ Explain why these methods are suitable
+ Justify each method
 
-☐ Link each method to project aims
+ Link methods to research aims
 
-Practical Testing Session
+Testing Session Plan
 
-☐ Identify location
+ Testing location
 
-☐ Identify devices used
+ Devices used
 
-☐ Define tasks for users
+ Tasks for users
 
-☐ Allocate time for each task
+ Time per task
 
-☐ Explain how the prototype will be presented
+ How prototype is presented
 
 Data Recording
 
-☐ Survey data stored using forms → spreadsheets
+ Store surveys in spreadsheets
 
-☐ Observations recorded using:
+ Record observations using:
 
 Checklists
 
@@ -739,63 +693,40 @@ Timings
 
 Notes
 
-☐ Ensure secure storage of data
+ Store all data securely
 
 Data Analysis
 
 Explain how you will:
 
-☐ Calculate average survey scores
+ Calculate average scores
 
-☐ Identify lowest scoring areas
+ Identify lowest scoring questions
 
-☐ Group feedback into themes
+ Group feedback into themes
 
-☐ Compare technical vs non-technical users
+ Compare technical vs non-technical users
 
-☐ Perform triangulation:
-Score + Theme + User Quote
+ Use triangulation
 
-Survey Design
+Score
 
-☐ Use Microsoft Forms, Google Forms, or SurveyMonkey
+Theme
 
-☐ Include 5 rating scale questions
+Quote
 
-☐ Include 3–5 open-ended questions
-
-☐ Ensure questions cover:
-
-Usability
-
-Navigation
-
-Accessibility
-
-Design clarity
-
-Performance
-
-☐ Ensure questions are clear and not repetitive
-
-Observation
-
-☐ Use tools such as HotJar
-
-☐ Record user behaviour during testing
-
-Task 3b
+Task 3b – Evaluation
 Assets and Content
 
-☐ Explain why each asset was chosen
+ Explain why assets were chosen
 
-☐ Explain why alternatives were rejected
+ Explain why alternatives were rejected
 
-☐ Confirm sources are reliable
+ Confirm sources are reliable
 
-☐ Address copyright and licensing
+ Address copyright and licensing
 
-☐ Consider ethical issues:
+ Address ethical issues
 
 Accessibility
 
@@ -803,46 +734,37 @@ Inclusivity
 
 Requirements Evaluation
 
-☐ Evaluate functional requirements
+ Evaluate functional requirements
 
-☐ Evaluate non-functional requirements
+ Evaluate non-functional requirements
 
-☐ Compare performance against KPIs
+ Compare results with KPIs
 
-☐ Evaluate user acceptance criteria
+ Evaluate user acceptance criteria
 
-☐ Support claims using Task 3a data
-
-Evidence
-
-☐ Reference survey results
-
-☐ Include feedback themes
-
-☐ Include at least one user quote
-
-☐ Include observation notes
-
-☐ Show triangulation:
-Score + Theme + Quote
+ Support evaluation with Task 3a evidence
 
 Improvements
 
-☐ List realistic improvements
+ List realistic improvements
 
-☐ Support improvements with evidence
+ Support improvements with user feedback
 
-☐ Explain why improvements matter
+ Explain why improvements are important
 
-☐ Explain how improvements help users
+ Explain how improvements help users
 
 Writing Quality
 
-☐ Use clear structure:
-Introduction → Evaluation → Improvements → Conclusion
+ Use structure:
 
-☐ Use professional language
+Introduction
+Evaluation
+Improvements
+Conclusion
 
-☐ Write full sentences and paragraphs
+ Use professional language
 
-☐ Avoid answers that only contain bullet points
+ Write full sentences and paragraphs
+
+ Avoid answers that only contain bullet points
